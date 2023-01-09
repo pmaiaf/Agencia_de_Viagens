@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AsLaotEmffOPDzudVuC5tLSTvNb6Qe91UItGqM/8tg+tLAmNBsYZXErb3LtizbEHL7FzQ2PGMaR1s6aqVxsGhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pedro\\Desktop\\Senac\\Modulo 1\\UC - 4 - Banco de dados\\Atividade 02OFC\\Atividade 02OFC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\mysqlconnector\\2.1.10\\mysqlconnector.2.1.10.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

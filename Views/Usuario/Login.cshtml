@@ -1,0 +1,18 @@
+@model Usuario
+<div class="container">
+<h2>Login</h2>
+
+<form class="mb-3" method="POST">
+    <p class="alert alert-danger">@ViewBag.Mensagem</p>
+
+    <label class="form-label">Login</label><br>
+    <input class="form-control" asp-for="login" type="text"><br>
+
+    <label class="form-label">Senha</label><br>
+    <input class="form-control" asp-for="senha" type="text"> <br>
+
+    <input class="btn btn-primary mb-3" type="submit" value="Entrar">
+
+
+</form>
+</div>

@@ -1,0 +1,23 @@
+@model Pacotes
+
+<div class="container">
+<h1>Cadastrar Pacotes</h1>
+
+<form method="POST" asp-action="Cadastrar" >
+
+<label class="form-label">Nome do Pacote:</label>
+<input class="form-control" type="text" asp-for="nome"><br><br>
+
+<label  class="form-label">Nome da Origem:</label>
+<input class="form-control" type="text" asp-for="origem"><br><br>
+
+<label  class="form-label">Nome do Destino:</label>
+<input class="form-control" type="text" asp-for="destino"><br>
+
+<label  class="form-label">Nome do Atrativo:</label>
+<input class="form-control" type="text" asp-for="atrativos"><br>
+
+<button class="btn btn-primary mb-3">Cadastrar</button>
+
+</form>
+</div>

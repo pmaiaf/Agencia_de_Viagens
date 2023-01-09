@@ -1,0 +1,28 @@
+@model List<Pacotes>
+<div class="container">
+<h1>Nossos Pacotes</h1>
+
+<table class="table">
+
+    <thead>
+        <tr>
+        
+            <th scope="col">Nome</th>
+            <th scope="col">Origem</th>
+            <th scope="col">Destino</th>
+            <th scope="col">Atrativos</th>
+        </tr>
+    </thead>
+    @foreach (Pacotes lista in Model)
+    {
+        <tbody>
+            <tr>
+                <td>@lista.nome</td>
+                <td>@lista.origem</td>
+                <td>@lista.destino</td>
+                <td>@lista.atrativos</td>
+                <td><a href="/Pacotes/editar?id=@lista.idPacotes">Editar</a> |  <a href="/Pacotes/Deletar?id=@lista.idPacotes">Excluir</a></td> 
+            </tr>
+        </tbody>
+    }
+    </div>

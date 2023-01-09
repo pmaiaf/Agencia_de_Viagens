@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pedro\\Desktop\\Senac\\Modulo 1\\UC - 4 - Banco de dados\\Atividade 02OFC\\Atividade 02OFC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pedro\\Desktop\\Senac\\Modulo 1\\UC - 4 - Banco de dados\\Atividade 02OFC\\Atividade 02OFC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pedro\\Desktop\\Senac\\Modulo 1\\UC - 4 - Banco de dados\\Atividade 02OFC\\Atividade 02OFC.csproj",
+        "projectName": "Atividade 02OFC",
+        "projectPath": "C:\\Users\\pedro\\Desktop\\Senac\\Modulo 1\\UC - 4 - Banco de dados\\Atividade 02OFC\\Atividade 02OFC.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro\\Desktop\\Senac\\Modulo 1\\UC - 4 - Banco de dados\\Atividade 02OFC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.1.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

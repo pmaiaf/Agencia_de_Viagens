@@ -1,0 +1,44 @@
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\bin\Debug\netcoreapp3.0\Atividade 02OFC.exe
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\bin\Debug\netcoreapp3.0\Atividade 02OFC.deps.json
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\bin\Debug\netcoreapp3.0\Atividade 02OFC.runtimeconfig.json
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\bin\Debug\netcoreapp3.0\Atividade 02OFC.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\bin\Debug\netcoreapp3.0\Atividade 02OFC.dll
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\bin\Debug\netcoreapp3.0\Atividade 02OFC.pdb
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\bin\Debug\netcoreapp3.0\Atividade 02OFC.Views.dll
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\bin\Debug\netcoreapp3.0\Atividade 02OFC.Views.pdb
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\bin\Debug\netcoreapp3.0\MySqlConnector.dll
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Atividade 02OFC.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Atividade 02OFC.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Atividade 02OFC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Atividade 02OFC.RazorAssemblyInfo.cache
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Atividade 02OFC.RazorAssemblyInfo.cs
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\staticwebassets\Atividade 02OFC.StaticWebAssets.Manifest.cache
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Atividade 02OFC.TagHelpers.input.cache
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Atividade 02OFC.TagHelpers.output.cache
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Atividade 02OFC.RazorCoreGenerate.cache
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Atividade 02OFC.RazorTargetAssemblyInfo.cache
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Atividade 02OFC.RazorTargetAssemblyInfo.cs
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Atividade 02OFC.Views.pdb
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Atividade 02OFC.csproj.CopyComplete
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Atividade 02OFC.dll
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Atividade 02OFC.pdb
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Razor\Views\Usuario\Cadastrar.cshtml.g.cs
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Razor\Views\Usuario\Logout.cshtml.g.cs
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Razor\Views\Pacotes\Cadastrar.cshtml.g.cs
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Razor\Views\Pacotes\ListaPacotes.cshtml.g.cs
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Razor\Views\Pacotes\Editar.cshtml.g.cs
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Razor\Views\Pacotes\ListaProUser.cshtml.g.cs
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Razor\Views\Acesso\AcessoN.cshtml.g.cs
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\Atividade 02OFC.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\obj\Debug\netcoreapp3.0\staticwebassets\Atividade 02OFC.StaticWebAssets.xml
+C:\Users\pedro\Desktop\Senac\Modulo 1\UC - 4 - Banco de dados\Atividade 02OFC\bin\Debug\netcoreapp3.0\Properties\launchSettings.json

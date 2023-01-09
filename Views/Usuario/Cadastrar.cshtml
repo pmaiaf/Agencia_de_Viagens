@@ -1,0 +1,23 @@
+@model Usuario
+
+
+
+<div class="container">
+<h2>Cadastrar</h2>
+
+<form class="mb-3" method="post">
+    <Label class="form-label">Nome</Label>
+    <input class="form-control" asp-for="nome" type="text"><br>
+
+    <Label class="form-label">Login</Label>
+    <input class="form-control" asp-for="login" type="text"><br>
+
+    <Label class="form-label">Senha</Label>
+    <input class="form-control" asp-for="senha" type="text"><br>
+
+    <Label class="form-label">Data Nascimento</Label>
+    <input class="form-control"  asp-for="datanascimento" type="date"><br>
+
+    <button  class="btn btn-primary mb-3">Enviar</button>
+</form>
+</div>
